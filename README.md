@@ -11,7 +11,6 @@ HISTO-UNet is a novel framework that addresses critical challenges in clinical i
 -   **Topology Preservation:** Integrates a dual-component loss (MA + MC) to ensure segmentations are structurally and morphologically correct.
 -   **Dual Uncertainty Quantification:** Simultaneously estimates both aleatoric (data) and epistemic (model) uncertainty to provide a comprehensive and interpretable measure of prediction confidence.
 -   **Novel Multi-Task Objective:** Unifies segmentation, topology, and uncertainty into a single end-to-end training process.
--   **Robust Performance:** Achieves state-of-the-art results on three challenging histopathology datasets (RINGS Glands, RINGS Tumor, and GlaS).
 
 ## Framework Overview
 
