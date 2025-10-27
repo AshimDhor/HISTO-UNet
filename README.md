@@ -4,7 +4,7 @@ This repository contains the implementation for the paper "HISTO-UNet: Topology-
 
 
 
-<!-- HISTO-UNet is a novel framework that addresses critical challenges in clinical image segmentation by integrating topology-preserving constraints with a dual uncertainty quantification system. Our approach employs a multi-task objective, combining medial axis (MA) and marker-controlled (MC) topology losses with a Bayesian deep learning methodology to simultaneously capture both data-inherent (aleatoric) and model-specific (epistemic) uncertainty. Through extensive evaluation on three benchmark histopathology datasets, we demonstrate that HISTO-UNet achieves superior segmentation accuracy and produces well-calibrated uncertainty estimates, making it a more reliable tool for clinical applications.-->
+HISTO-UNet is a novel framework that addresses critical challenges in clinical image segmentation by integrating topology-preserving constraints with a dual uncertainty quantification system. Our approach employs a multi-task objective, combining medial axis (MA) and marker-controlled (MC) topology losses with a Bayesian deep learning methodology to simultaneously capture both data-inherent (aleatoric) and model-specific (epistemic) uncertainty. Through extensive evaluation on three benchmark histopathology datasets, we demonstrate that HISTO-UNet achieves superior segmentation accuracy and produces well-calibrated uncertainty estimates, making it a more reliable tool for clinical applications.
 
 <!--## Key Contributions-->
 
